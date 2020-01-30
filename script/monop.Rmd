@@ -3,214 +3,136 @@ pagestyle: empty
 ---
 
 \centering
-![](../fig/monop/image001.jpg){ width=12.5% } 
- 
-  
-
-  
-
-UNIVERSIDADE FEDERAL DO CEARÁ  
-
-  
-
-  
-
-FACULDADE DE FARMÁCIA, ODONTOLOGIA E ENFERMAGEM  
-
-  
-
-  
-
+![](../fig/fmj.jpg){ width=12.5% }
+&nbsp;   
+&nbsp;  
+<!-- UNIVERSIDADE FEDERAL DO CEARÁ   -->
+&nbsp;  
+&nbsp;  
+FACULDADE DE MEDICINA DE JUAZEIRO DO NORTE  
+&nbsp;  
+&nbsp;  
 CURSO DE FARMÁCIA  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-RAYRA AGUIAR CAMPOS LIMA  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-EVENTOS ADVERSOS DA QUIMIOTERAPIA ANTICÂNCER EM PACIENTES PEDIÁTRICOS COM TUMORES DO SISTEMA NERVOSO CENTRAL: ESTUDO RETROSPECTIVO  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-FORTALEZA  
-
-  
-
-  
-
-  
-
-  
-
-2016  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+KARINE MARTINS DA TRINDADE  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+AVALIAÇÃO DAS REAÇÕES ADVERSAS DA QUIMIOTERAPIA NOS TUMORES CEREBRAIS NO HOSPITAL INFANTIL ALBERT SABIN ENTRE 2000-2006  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+JUAZEIRO DO NORTE - CE  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+2008  
 \pagebreak
 
-RAYRA AGUIAR CAMPOS LIMA  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-EVENTOS ADVERSOS DA QUIMIOTERAPIA ANTICÂNCER EM PACIENTES PEDIÁTRICOS COM TUMORES DO SISTEMA NERVOSO CENTRAL: ESTUDO RETROSPECTIVO  
-
-  
-
-  
-
-  
-
-  
+KARINE MARTINS DA TRINDADE  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+AVALIAÇÃO DAS REAÇÕES ADVERSAS DA QUIMIOTERAPIA NOS TUMORES CEREBRAIS NO HOSPITAL INFANTIL ALBERT SABIN ENTRE 2000-2006  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ```
 
-								Monografia apresentada ao Curso de Farmácia 
-								da Faculdade de Farmácia, Odontologia e 
-								Enfermagem da Universidade Federal do 
-								Ceará, como requisito parcial para obtenção do 
-								Título de Bacharel em Farmácia.
+								Trabalho de conclusão de curso apresentado à
+                Faculdade de Medicina de Juazeiro do Norte - CE,
+                requisito parcial para obtenção do grau de Bacharel
+                em Medicina.
 
-								Orientadora: Profa. Dra. Juvenia Bezerra 
-								Fontenele.
-
-								Coorientador: Francisco Hélder Cavalcante 
+								Orientador: Prof. Francisco Hélder Cavalcante
 								Félix.
 ```
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 FORTALEZA  
-
-  
-
-  
-
-  
-
-  
-2016
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+2018
 \pagebreak
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 Dados Internacionais de Catalogação na Publicação  
-  
-Universidade Federal do Ceará  
-  
+
+Faculdade de Medicina de Juazeiro do Norte  
+
 Biblioteca de Ciências da Saúde  
-  
-  
-  
+&nbsp;  
+&nbsp;  
+
 ----------------------------------------------
 
 ```
 L71e	Lima, Rayra Aguiar Campos.
-		Eventos adversos da quimioterapia anticâncer em pacientes pediátricos 
-	com tumores do sistema nervoso central: estudo retrospectivo./ 
+		Eventos adversos da quimioterapia anticâncer em pacientes pediátricos
+	com tumores do sistema nervoso central: estudo retrospectivo./
 	Rayra Aguiar Campos Lima. – 2016.
 		60 f.: il.
 
-		Monografia (graduação) – Universidade Federal do Ceará, Faculdade de 
-	Farmácia, Odontologia e Enfermagem, Departamento de Farmácia, 
+		Monografia (graduação) – Universidade Federal do Ceará, Faculdade de
+	Farmácia, Odontologia e Enfermagem, Departamento de Farmácia,
 	Curso de Farmácia, Fortaleza, 2016.
 		Orientação: Profa. Dra. Juvenia Bezerra Fontenele.
 		Coorientação: Francisco Hélder Cavalcante Félix.
 
-		
-		1. Quimioterapia. 2. Efeitos Colaterais e Reações Adversas Relacionados 
+
+		1. Quimioterapia. 2. Efeitos Colaterais e Reações Adversas Relacionados
 	a Medicamentos. 3. Neoplasias Encefálicas. I. Título.
 
 									 CDD 618.0461
 ```
 -------------------------------------------
-
